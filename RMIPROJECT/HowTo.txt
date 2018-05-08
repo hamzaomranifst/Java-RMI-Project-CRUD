@@ -1,0 +1,18 @@
+/*********************************************************************/
+/*** 		Faculté Des Sciences de Tunis 	    		   ***/
+/***   Autheurs: Omrani Hamza	& Guetaifi Oumaima                 ***/
+/***  Gestion de Carnet d'adresses des employées d'une institution ***/
+/*********************************************************************/
+
+
+
+Accédez au dossier du projet.
+
+Lancez le serveur comme suit:
+./deploiment_server.sh
+./lancher_server.sh
+
+
+Lancez le client comme suit:
+./deploiment-client.sh
+./client_lancher.sh
